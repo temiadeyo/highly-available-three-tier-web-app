@@ -1,4 +1,4 @@
-# Building a Three-Tier Architecture on AWS
+# Highly Available Three-Tier Web Application
 
 ## Overview
 
